@@ -54,7 +54,7 @@ both static and real-time reporting.
 
 
 
-`Jul 2020- Oct 2021` **Intern**
+`Jul 2020- Oct 2020` **Intern**
 
 &nbsp; &nbsp; &nbsp; _Entekhab Group (Tehran, Iran)_
 
