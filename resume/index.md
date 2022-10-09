@@ -30,7 +30,7 @@
 
 &nbsp; &nbsp; &nbsp; _University of California-Davis_
 
-: > Working at the [Data Intensive Biology Lab](http://ivory.idyll.org/lab/) and a member of [AI in Veterinary Medicine](https://ai.vetmed.ucdavis.edu/) research group. I conduct research on AI enabled soultions such as computer vision, and ML for Veterinary medicine and work on development and maintenance of sourmash, and spacegraphcats, which are softwares for faster and more efficient sequence analysis of high-throughput sequencing data.
+: > Working at the [Data Intensive Biology Lab](http://ivory.idyll.org/lab/) and a member of [AI in Veterinary Medicine](https://ai.vetmed.ucdavis.edu/) research group. I conduct research on AI enabled solutions such as computer vision, and ML for Veterinary medicine and work on development and maintenance of sourmash, and spacegraphcats, which are softwares for faster and more efficient sequence analysis of high-throughput sequencing data.
 
 
 `May 2022- Sep 2022` **Mid Developer**

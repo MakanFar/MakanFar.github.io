@@ -114,9 +114,6 @@ tinyletter:
     No 3rd party products, no spam. Emails handled by [Tinyletter](https://tinyletter.com/)
     {:.faded}
 
-welcome:
-  more_projects:       See <!--projects_title--> for more
-  more_posts:          See <!--posts_title--> for more
 
 resume:
   location:            Location
