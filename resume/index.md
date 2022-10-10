@@ -26,7 +26,7 @@
 
 ## **Employment**
 
-`2022- Current` **Research Assitant**
+`2022- Current` **Research Assistant**
 
 &nbsp; &nbsp; &nbsp; _University of California-Davis_
 
@@ -69,7 +69,7 @@ both static and real-time reporting.
 
 &nbsp; &nbsp; &nbsp; _ (In Submission) Advisor: Prof. Dr. ALİ OKATAN_
 
-: > In this work, the performance of a new depth-wise convolution neural networks model with self-attention layers on diagnosis of medical cases using CXRs is accessed. Images of chest x-rays from patients with confirmed Covid-19, pulmonary opacity, and normal cases, were used for automatic detection with the suggested model. The purposed model was trained to provide a diagnosis for multi-label classification of all three cases (Covid-19, lung opacity, normal). The best accuracy obtained is 96.5%, 91.4%, 99%, 98%, 91.3% and 94.5% respectively.
+: > In this work, the performance of a new depth-wise convolution neural networks model with self-attention layers on diagnosis of medical cases using CXRs is accessed. Images of chest x-rays from patients with confirmed Covid-19, pulmonary opacity, and normal cases, were used for automatic detection with the suggested model. The purposed model was trained to provide a diagnosis for multi-label classification of all three cases (Covid-19, lung opacity, normal).
 
 <!-- image -->
 <p align="center"><img src="coatnet.png"></p>
@@ -98,12 +98,12 @@ both static and real-time reporting.
 ```python
 < ML > 
 
-PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy, numPy, Pandas, Matplotlib, GeoPandas
+PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy, numPy, Pandas, Matplotlib
 -------------
 
 < Web Dev >
 
-React, Redux, NodeJS, Django, Flask, Laravel, SQL
+React, Redux, AJAX, NodeJS, Django, Flask, Laravel, SQL
 -------------
 
 < Data Science >
