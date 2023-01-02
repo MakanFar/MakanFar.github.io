@@ -69,7 +69,7 @@ both static and real-time reporting.
 &nbsp; &nbsp; &nbsp; _Vista Medikal (Istanbul, Turkey)_
 
 
-: >  Worked as a Full-stack developer, and developed CRM system for sales representatives using Django, and MangoDB. Identified and fixed software bugs. Created a wide variety of unit tests to verify the functionality of the CRM.
+: > Worked as a Full-stack developer, and developed CRM system for sales representatives using Django, and MangoDB. Identified and fixed software bugs. Created a wide variety of unit tests to verify the functionality of the CRM.
 
 : > Developed a brand new stand-alone Ecommerce website using AJAX, Nodejs and React.
 
@@ -89,7 +89,7 @@ both static and real-time reporting.
 
 `Aug 2022` **Deep Learning for early diagnosis of Covid-19 infection based on CXRs.**
 
-&nbsp; &nbsp; &nbsp; _ (In Submission) Advisor: Prof. Dr. ALİ OKATAN_
+&nbsp; &nbsp; &nbsp; (In Submission) Advisor: Prof. Dr. ALİ OKATAN
 
 : > In this work, the performance of a new depth-wise convolution neural networks model with self-attention layers on diagnosis of medical cases using CXRs is accessed. Images of chest x-rays from patients with confirmed Covid-19, pulmonary opacity, and normal cases, were used for automatic detection with the suggested model. The purposed model was trained to provide a diagnosis for multi-label classification of all three cases (Covid-19, lung opacity, normal).
 
