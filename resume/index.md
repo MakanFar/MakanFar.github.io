@@ -26,43 +26,65 @@
 
 ## **Employment**
 
-`2022- Current` **Research Assistant**
+`2022- Current` **Graduate Research Assistant**
 
 &nbsp; &nbsp; &nbsp; _University of California-Davis_
 
 : > Working at the [Data Intensive Biology Lab](http://ivory.idyll.org/lab/) and a member of [AI in Veterinary Medicine](https://ai.vetmed.ucdavis.edu/) research group. I conduct research on AI enabled solutions such as computer vision, and ML for Veterinary medicine and work on development and maintenance of sourmash, and spacegraphcats, which are softwares for faster and more efficient sequence analysis of high-throughput sequencing data.
 
+: >  Identifying different bacterial strains that are associated with Crohn’s disease using a proposed trans- former model and compressed representations of complete metagenomes ([FracMinHash sketches](https://www.biorxiv.org/content/10.1101/2022.01.11.475838v2)).
 
-`May 2022- Sep 2022` **Mid Developer**
+: > Working on constructing pilot workflows for data in the SVM Electronic Health Record system, and conducting pilot integration of workflows into clinical decision support using a novel natural language processing model to predict survival and diagnosis of the patients. ([CeDAR grant](https://research.ucdavis.edu/data-science-researchers-receive-over-1-million-in-grants/) )
+
+: >  Working on Multimodal AI for healthcare applications and clinical diagnosis using new computer vision and natural language processing approaches at [AI in Veterinary Medicine research group](https://ai.vetmed.ucdavis.edu).
+
+: >  Conducted research on DNA sequence classification using Natural Language Processing (NLP) mod- els based on word2vec embedding of k-mers in sequences for detecting DNA wraps around histone proteins.
+
+: >  Developed a prediction model in vitro fertilization for optimal clinical use and optimal counseling on chances of a pregnancy with IVF.
+
+: >  Implementing Convolutional Neural Network and computer vision to predict blastocyst viability using time-lapse images of embryos.
+
+: >  Creating new algorithms and working on development of software and Python libraries ([sourmash](https://sourmash.readthedocs.io/en/latest/)) for faster and more efficient sequence analysis of high-throughput sequencing data.
+
+
+
+
+`May 2022- Sep 2022` **Software Engineer**
 
 &nbsp; &nbsp; &nbsp; _Dtech Software (Istanbul, Turkey)_
 
-: > Developed and maintained customer communication management (CCM) systems for Banks and
-insurance companies (MetLife, Dubai Islamic Bank, RakBank, and etc..) using Quadient
-interactive designer.
+: > Developed and maintained customer communication management (CCM) systems for Banks and insurance companies (MetLife, Dubai Islamic Bank, RakBank, etc.) on both front-end and back-end using technologies such as JavaScript, React, SQL, SoapUI and .Net.
+
+: >  Responsible for developing RakBank’s online banking customer dashboards and automated person- alized statements.
+
+: >  Debugged Abu Dhabi Commercial Bank’s (ADCB) online banking application. Added new features such as multiple language support for billing statements and extra registration panel for customers with multiple nationalities.
 
 : > Created data transformer modules and pipelines for customer data and transactions for
 both static and real-time reporting.
 
 
 
-`Sep 2020- Apr 2021` **Junior Developer**
+`Sep 2020- Apr 2021` **Junior Software Engineer**
 
 &nbsp; &nbsp; &nbsp; _Vista Medikal (Istanbul, Turkey)_
 
-: > Web development using Redux and React, and developed CRM system using Django for medical sales representatives.
+
+: >  Worked as a Full-stack developer, and developed CRM system for sales representatives using Django, and MangoDB. Identified and fixed software bugs. Created a wide variety of unit tests to verify the functionality of the CRM.
+
+: > Developed a brand new stand-alone Ecommerce website using AJAX, Nodejs and React.
 
 
 
-`Jul 2020- Oct 2020` **Intern**
+
+`Jul 2020- Oct 2020` **Software Engineering Intern**
 
 &nbsp; &nbsp; &nbsp; _Entekhab Group (Tehran, Iran)_
 
-: > Worked on embedded systems with IoT applications using MCU, and C# programming.
+: > Worked on embedded systems with IoT applications using MCU, C, and C# programming.
 
 
 
-## **Research Projects**
+## **Projects & Leadership**
 
 
 `Aug 2022` **Deep Learning for early diagnosis of Covid-19 infection based on CXRs.**
@@ -75,11 +97,17 @@ both static and real-time reporting.
 <p align="center"><img src="coatnet.png"></p>
 
 
-`Current` **Predicting and assessing equine embryo developmental competency by time-lapse image analysis using ML**
+`2021-2022` **Autonomous vehicle**
 
-&nbsp; &nbsp; &nbsp; _ co-author: Dr. Pouya Dini_
+&nbsp; &nbsp; &nbsp; AI / Computer Vision
 
-: > This is an ongoing project for developing prediction models in vitro fertilization for optimal clinical use and optimal counseling on chances of a pregnancy with IVF. Currently, a dynamic machine learning model "Adaboost” is developed using data collected from 131 different patients. Next phase is implementing deep learning and computer vision to predict blastocyst viability using time-lapse images of embryos.
+: > I was the president of Formula Student club at my previous university. Using deep Convolutional Neural Network and CV to detect road blocks, designed a self-driving vehicle that won a prize at Teknofest competition in Turkey.
+
+`2021-2022` **Covid-19 monitoring with AI enabled camera**
+
+&nbsp; &nbsp; &nbsp; AI / Computer Vision
+
+: > I was student group leader for the SEN444 final project. We developed a social distancing violation detection, face and face mask detection monitoring system using object detection, clustering and Convolution Neural Network (CNN) based binary classifier.
 
 ---------------------------------------------------------------------------------
 
@@ -98,22 +126,22 @@ both static and real-time reporting.
 ```python
 < ML > 
 
-PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy, numPy, Pandas, Matplotlib
+PyTorch, Keras, Caffe, TensorFlow, numPy, Pandas, Matplotlib, spaCy
 -------------
 
 < Web Dev >
 
-React, Redux, AJAX, NodeJS, Django, Flask, Laravel, SQL
+React, Redux, AJAX, NodeJS, Django, Flask, Laravel, SQL, MySQl
 -------------
 
 < Data Science >
 
-R Shiny, Snakemake, Apache Spark, Tableau
+R, R Shiny, Snakemake, Apache Spark, Tableau, AWS
 -------------
 
- < Others >
+ < Programming >
  
- C, C++, "C#" .Net, Java, Dart, Flutter, Rust
+ Python, JS, C, C++, "C#", .Net, Java, Dart, Rust
 ```
 ## **Certificates**
 
