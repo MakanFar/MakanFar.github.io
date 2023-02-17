@@ -9,17 +9,17 @@
 
 ## **Education**
 
-`2022- Current` **University of California, Davis**
+`Current` **University of California, Davis**
 
 : Ph.D. Computer Science
 : Advisor: C. Titus Brown
 
-`2018- 2022` **Istanbul Aydin University, Istanbul Turkey**
+**Istanbul Aydin University, Istanbul Turkey**
 
 : B.E. Software Engineering
 : Advisor: Prof. Dr. ALİ OKATAN
 
-`2015- 2017` **United World College-USA, New Mexico, USA**
+**United World College-USA, New Mexico, USA**
 
 : International Baccalaureate, IB
 
@@ -30,22 +30,14 @@
 
 &nbsp; &nbsp; &nbsp; _University of California-Davis_
 
-: > Working at the [Data Intensive Biology Lab](http://ivory.idyll.org/lab/) and a member of [AI in Veterinary Medicine](https://ai.vetmed.ucdavis.edu/) research group. I conduct research on AI enabled solutions such as computer vision, and ML for Veterinary medicine and work on development and maintenance of sourmash, and spacegraphcats, which are softwares for faster and more efficient sequence analysis of high-throughput sequencing data.
+: >  Applied AI/ML in healthcare and genomics.
 
-: >  Identifying different bacterial strains that are associated with Crohn’s disease using a proposed trans- former model and compressed representations of complete metagenomes ([FracMinHash sketches](https://www.biorxiv.org/content/10.1101/2022.01.11.475838v2)).
 
-: > Working on constructing pilot workflows for data in the SVM Electronic Health Record system, and conducting pilot integration of workflows into clinical decision support using a novel natural language processing model to predict survival and diagnosis of the patients. ([CeDAR grant](https://research.ucdavis.edu/data-science-researchers-receive-over-1-million-in-grants/) )
+`2022- Current` **Student Researcher**
 
-: >  Working on Multimodal AI for healthcare applications and clinical diagnosis using new computer vision and natural language processing approaches at [AI in Veterinary Medicine research group](https://ai.vetmed.ucdavis.edu).
+&nbsp; &nbsp; &nbsp; _University of California-Davis_
 
-: >  Conducted research on DNA sequence classification using Natural Language Processing (NLP) mod- els based on word2vec embedding of k-mers in sequences for detecting DNA wraps around histone proteins.
-
-: >  Developed a prediction model in vitro fertilization for optimal clinical use and optimal counseling on chances of a pregnancy with IVF.
-
-: >  Implementing Convolutional Neural Network and computer vision to predict blastocyst viability using time-lapse images of embryos.
-
-: >  Creating new algorithms and working on development of software and Python libraries ([sourmash](https://sourmash.readthedocs.io/en/latest/)) for faster and more efficient sequence analysis of high-throughput sequencing data.
-
+: >  Medical imaging and applications of deep learning in medical image segmentation, detection, and classification.
 
 
 
@@ -53,25 +45,17 @@
 
 &nbsp; &nbsp; &nbsp; _Dtech Software (Istanbul, Turkey)_
 
-: > Developed and maintained customer communication management (CCM) systems for Banks and insurance companies (MetLife, Dubai Islamic Bank, RakBank, etc.) on both front-end and back-end using technologies such as JavaScript, React, SQL, SoapUI and .Net.
-
-: >  Responsible for developing RakBank’s online banking customer dashboards and automated person- alized statements.
-
-: >  Debugged Abu Dhabi Commercial Bank’s (ADCB) online banking application. Added new features such as multiple language support for billing statements and extra registration panel for customers with multiple nationalities.
-
-: > Created data transformer modules and pipelines for customer data and transactions for
-both static and real-time reporting.
+: > Developed customer communication management (CCM) systems using technologies such as Quadient, TypeScript, SQL, SoapUI and .Net.
 
 
 
-`Sep 2020- Apr 2021` **Junior Software Engineer**
+`May 2020- Apr 2021` **Software Engineer Contractor**
 
 &nbsp; &nbsp; &nbsp; _Vista Medikal (Istanbul, Turkey)_
 
 
-: > Worked as a Full-stack developer, and developed CRM system for sales representatives using Django, and MangoDB. Identified and fixed software bugs. Created a wide variety of unit tests to verify the functionality of the CRM.
+: > Full-stack development using JS, React and Nodejs.
 
-: > Developed a brand new stand-alone Ecommerce website using AJAX, Nodejs and React.
 
 
 
@@ -91,7 +75,7 @@ both static and real-time reporting.
 
 &nbsp; &nbsp; &nbsp; (In Submission) Advisor: Prof. Dr. ALİ OKATAN
 
-: > In this work, the performance of a new depth-wise convolution neural networks model with self-attention layers on diagnosis of medical cases using CXRs is accessed. Images of chest x-rays from patients with confirmed Covid-19, pulmonary opacity, and normal cases, were used for automatic detection with the suggested model. The purposed model was trained to provide a diagnosis for multi-label classification of all three cases (Covid-19, lung opacity, normal).
+: > A novel depth-wise convolution neural networks model with self-attention layers for diagnosis Covid-19, lung opacity, normal using chest X-rays.
 
 <!-- image -->
 <p align="center"><img src="coatnet.png"></p>
@@ -101,13 +85,13 @@ both static and real-time reporting.
 
 &nbsp; &nbsp; &nbsp; AI / Computer Vision
 
-: > I was the president of Formula Student club at my previous university. Using deep Convolutional Neural Network and CV to detect road blocks, designed a self-driving vehicle that won a prize at Teknofest competition in Turkey.
+: > Developed a self-driving vehicle prototype that won a prize at Teknofest competition in Turkey.
 
 `2021-2022` **Covid-19 monitoring with AI enabled camera**
 
 &nbsp; &nbsp; &nbsp; AI / Computer Vision
 
-: > I was student group leader for the SEN444 final project. We developed a social distancing violation detection, face and face mask detection monitoring system using object detection, clustering and Convolution Neural Network (CNN) based binary classifier.
+: > Developed a social distancing and face mask detection system using object detection, and Convolution Neural Network (CNN).
 
 ---------------------------------------------------------------------------------
 
@@ -126,7 +110,7 @@ both static and real-time reporting.
 ```python
 < ML > 
 
-PyTorch, Keras, Caffe, TensorFlow, numPy, Pandas, Matplotlib, spaCy
+PyTorch, scikit-learn, Keras, Caffe, TensorFlow, numPy, Pandas, Matplotlib, spaCy
 -------------
 
 < Web Dev >
