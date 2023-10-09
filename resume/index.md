@@ -17,7 +17,6 @@
 **Istanbul Aydin University, Istanbul Turkey**
 
 : B.E. Software Engineering
-: Advisor: Prof. Dr. ALİ OKATAN
 
 **United World College-USA, New Mexico, USA**
 
@@ -30,12 +29,19 @@
 
 &nbsp; &nbsp; &nbsp; _University of California-Davis_
 
-: >  Applied AI/ML in healthcare and genomics.
+: >   AI, ML, and their applications in healthcare and genomics.
 
 
-`2022- Current` **Student Researcher**
+`May 2023- Sep 2023` **Application Developer & ML/AI Engineer**
 
-&nbsp; &nbsp; &nbsp; _University of California-Davis_
+&nbsp; &nbsp; &nbsp; _UC Davis School of Veterinary Medicine_
+
+: >   Contributor to the ANNA platform, A clinical diagnosis data analytics dashboard featuring AI models and pipelines.
+
+
+`2021- Jun 2022` **Student Researcher**
+
+&nbsp; &nbsp; &nbsp; _Istanbul Aydin University_
 
 : >  Medical imaging and applications of deep learning in medical image segmentation, detection, and classification.
 
@@ -49,31 +55,25 @@
 
 
 
-`May 2020- Apr 2021` **Software Engineer Contractor**
-
-&nbsp; &nbsp; &nbsp; _Vista Medikal (Istanbul, Turkey)_
+## **Projects**
 
 
-: > Full-stack development using JS, React and Nodejs.
+`Sep 2023` **ANNA - Animal Health Analytics Dashboard**
+
+: >  An advanced clinical diagnosis data analytics dashboard incorporating AI to enhance clinical decision-making confidence. (Python, Flask, Dash) [Article](https://www.vetmed.ucdavis.edu/news/uc-davis-researchers-exploring-data-and-ai-tools-animal-health-diagnosis-and-treatment)
+
+<!-- image -->
+<p align="center"><img src="anna.png"></p>
 
 
+`Mar 2023` **Dialogue Style Transfer.**
 
+: >  An integrated multimodal workflow and app that combines Zero-shot large models with Zero-shot image-to-text models, enabling users to customize dialogues based on a specified character and their characteristics. [Github](https://github.com/MakanFar/StyleMyDialogue)
 
-
-`Jul 2020- Oct 2020` **Software Engineering Intern**
-
-&nbsp; &nbsp; &nbsp; _Entekhab Group (Tehran, Iran)_
-
-: > Worked on embedded systems with IoT applications using MCU, C, and C# programming.
-
-
-
-## **Projects & Leadership**
-
+<!-- image -->
+<p align="center"><img src="StyleDia.jpg"></p>
 
 `Aug 2022` **Deep Learning for early diagnosis of Covid-19 infection based on CXRs.**
-
-&nbsp; &nbsp; &nbsp; (In Submission) Advisor: Prof. Dr. ALİ OKATAN
 
 : > A novel depth-wise convolution neural networks model with self-attention layers for diagnosis Covid-19, lung opacity, normal using chest X-rays.
 
@@ -95,13 +95,9 @@
 
 ---------------------------------------------------------------------------------
 
-## **HONORS**
+## **Papers**
 
-`Sep 2022` **Fellowship Award, University of California-Davis**
-
-`2018` **IAU academic scholarship, Istanbul Aydin University**
-
-`2015` **Horizon Foundation full scholarship, United World College-USA**
+`Jul 2023` Farhoodimoghadam, M., & Zwingenberger, A. (2023). Diagnosis and classification of portosystemic shunts: a machine learning retrospective case-control study. (Manuscript submitted for publication)
 
 
 
@@ -120,7 +116,7 @@ React, Redux, AJAX, NodeJS, Django, Flask, Laravel, SQL, MySQl
 
 < Data Science >
 
-R, R Shiny, Snakemake, Apache Spark, Tableau, AWS
+R, R Shiny, Dash, Snakemake, Apache Spark, Tableau, AWS
 -------------
 
  < Programming >
