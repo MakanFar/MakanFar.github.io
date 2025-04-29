@@ -44,22 +44,14 @@
 
 &nbsp; &nbsp; &nbsp; _Clipo Labs (Mountain View, CA)_
 `Jun 2023- Sep 2023` **Product Manager**
-: >   SiteAgent, an AI agent leveraging generative AI to enhance customer engagement and support.
 
 &nbsp; &nbsp; &nbsp; _UC Davis School of Veterinary Medicine_
 `May 2023- Sep 2023` **AI/APP Developer**
-: >   Contributor to ANNA, an AI-enabled clinical diagnostic and data analytics platform deployed at UC Davis Veterinary Hospital.
 
 
-
-`May 2022- Sep 2022` **Software Engineer**
-
-&nbsp; &nbsp; &nbsp; _Dtech Software (Istanbul, Turkey)_
 
 
 ## **Projects**
-
-
 
 
 `2024` **SiteAgent AI - AI customer service**
@@ -83,26 +75,6 @@
 
 <!-- image -->
 <p align="center"><img src="StyleDia.jpg"></p>
-
-`Aug 2022` **Deep Learning for early diagnosis of Covid-19 infection based on CXRs.**
-
-: > A novel depth-wise convolution neural networks model with self-attention layers for diagnosis Covid-19, lung opacity, normal using chest X-rays.
-
-<!-- image -->
-<p align="center"><img src="coatnet.png"></p>
-
-
-`2021-2022` **Autonomous vehicle**
-
-&nbsp; &nbsp; &nbsp; AI / Computer Vision
-
-: > Developed a self-driving vehicle prototype that won a prize at Teknofest competition in Turkey.
-
-`2021-2022` **Covid-19 monitoring with AI enabled camera**
-
-&nbsp; &nbsp; &nbsp; AI / Computer Vision
-
-: > Developed a social distancing and face mask detection system using object detection, and Convolution Neural Network (CNN).
 
 ---------------------------------------------------------------------------------
 
