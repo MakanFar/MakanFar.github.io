@@ -12,7 +12,6 @@
 `Current` **University of California, Davis**
 
 : Ph.D. Computer Science
-: Advisor: C. Titus Brown
 
 **University of California, Davis**
 
@@ -35,6 +34,7 @@
 &nbsp; &nbsp; &nbsp; _University of California-Davis_
 
 : >   AI-driven diagnostic frameworks integrated with EHR and clinical systems
+[DIB Lab](http://ivory.idyll.org/lab/)
 
 `Jun 2024- Sep 2024` **Software Engineer**
 
@@ -59,7 +59,7 @@
 : >  AI-powered assistant that integrates seamlessly with online stores, understands product catalogs, and enables customers to navigate websites, receive support, and get smart product recommendations through multilingual voice and text interactions in over 80 languages. [Website](https://siteagent.ai)
 
 <!-- image -->
-<p align="center"><img src="siteagent.png"></p>
+<p align="center"><img src="siteagent.gif"></p>
 
 `Sep 2023` **ANNA - Animal Health Analytics Dashboard**
 
