@@ -1,6 +1,6 @@
 # Makan Farhoodi
 
-<span style="color:blue">**<a href="mailto:mak.farhoodi@gmail.com">mak.farhoodi@gmail.com</a>
+<span style="color:blue">**<a href="mailto:mfarhoodi@ucdavis.edu">mfarhoodi@ucdavis.edu</a>
 |
 <a href="https://github.com/MakanFar" target="_blank">GitHub</a>
 |
@@ -13,6 +13,11 @@
 
 : Ph.D. Computer Science
 : Advisor: C. Titus Brown
+
+**University of California, Davis**
+
+: Masters in Computer Science
+
 
 **Istanbul Aydin University, Istanbul Turkey**
 
@@ -29,21 +34,21 @@
 
 &nbsp; &nbsp; &nbsp; _University of California-Davis_
 
-: >   AI, ML, and their applications in healthcare and genomics.
+: >   AI-driven diagnostic frameworks integrated with EHR and clinical systems
 
+`Jun 2024- Sep 2024` **Software Engineer**
 
-`May 2023- Sep 2023` **Application Developer & ML/AI Engineer**
+&nbsp; &nbsp; &nbsp; _Active Prime (Mountain View, CA)_
+
+`Jun 2024- Sep 2024` **Software Engineer**
+
+&nbsp; &nbsp; &nbsp; _Clipo Labs (Mountain View, CA)_
+`Jun 2023- Sep 2023` **Product Manager**
+: >   SiteAgent, an AI agent leveraging generative AI to enhance customer engagement and support.
 
 &nbsp; &nbsp; &nbsp; _UC Davis School of Veterinary Medicine_
-
-: >   Contributor to the ANNA platform, A clinical diagnosis data analytics dashboard featuring AI models and pipelines.
-
-
-`2021- Jun 2022` **Student Researcher**
-
-&nbsp; &nbsp; &nbsp; _Istanbul Aydin University_
-
-: >  Medical imaging and applications of deep learning in medical image segmentation, detection, and classification.
+`May 2023- Sep 2023` **AI/APP Developer**
+: >   Contributor to ANNA, an AI-enabled clinical diagnostic and data analytics platform deployed at UC Davis Veterinary Hospital.
 
 
 
@@ -51,16 +56,22 @@
 
 &nbsp; &nbsp; &nbsp; _Dtech Software (Istanbul, Turkey)_
 
-: > Developed customer communication management (CCM) systems using technologies such as Quadient, TypeScript, SQL, SoapUI and .Net.
-
-
 
 ## **Projects**
 
 
+
+
+`2024` **SiteAgent AI - AI customer service**
+
+: >  AI-powered assistant that integrates seamlessly with online stores, understands product catalogs, and enables customers to navigate websites, receive support, and get smart product recommendations through multilingual voice and text interactions in over 80 languages. [Website](https://siteagent.ai)
+
+<!-- image -->
+<p align="center"><img src="siteagent.png"></p>
+
 `Sep 2023` **ANNA - Animal Health Analytics Dashboard**
 
-: >  An advanced clinical diagnosis data analytics dashboard incorporating AI to enhance clinical decision-making confidence. (Python, Flask, Dash) [Article](https://www.vetmed.ucdavis.edu/news/uc-davis-researchers-exploring-data-and-ai-tools-animal-health-diagnosis-and-treatment)
+: >  Real-time clinical diagnosis dashboard incorporating AI to enhance clinical decision-making confidence. (Python, Flask, Dash) [Article](https://www.vetmed.ucdavis.edu/news/uc-davis-researchers-exploring-data-and-ai-tools-animal-health-diagnosis-and-treatment)
 
 <!-- image -->
 <p align="center"><img src="anna.png"></p>
@@ -68,7 +79,7 @@
 
 `Mar 2023` **Dialogue Style Transfer.**
 
-: >  An integrated multimodal workflow and app that combines Zero-shot large models with Zero-shot image-to-text models, enabling users to customize dialogues based on a specified character and their characteristics. [Github](https://github.com/MakanFar/StyleMyDialogue)
+: >  An multimodal workflow and app that combines Zero-shot large models with Zero-shot image-to-text models, enabling users to customize dialogues based on a specified character and their characteristics. [Github](https://github.com/MakanFar/StyleMyDialogue)
 
 <!-- image -->
 <p align="center"><img src="StyleDia.jpg"></p>
@@ -97,8 +108,11 @@
 
 ## **Papers**
 
-`Jul 2023` Farhoodimoghadam, M., & Zwingenberger, A. (2023). Diagnosis and classification of portosystemic shunts: a machine learning retrospective case-control study. (Manuscript submitted for publication)
+`2024` Farhoodimoghadam, M., Zwingenberger, A. (2024). Diagnosis and classification of portosystemic shunts: a machine learning retrospective case-control study.
+[DOI](https://doi.org/10.3389/fvets.2024.1291318)
 
+`2024` Kong, C.,Farhoodimoghadam, M. Enhancing AI Accessibility in Veterinary Medicine: Linking Classifiers and Electronic Health Records 
+[DOI](https://doi.org/10.48550/arXiv.2410.14625)
 
 
 ## **Skills**
@@ -106,7 +120,7 @@
 ```python
 < ML > 
 
-PyTorch, scikit-learn, Keras, Caffe, TensorFlow, numPy, Pandas, Matplotlib, spaCy
+PyTorch, LangChain, scikit-learn, Keras, Caffe, TensorFlow, numPy, Pandas, Matplotlib, spaCy
 -------------
 
 < Web Dev >
@@ -116,12 +130,12 @@ React, Redux, AJAX, NodeJS, Django, Flask, Laravel, SQL, MySQl
 
 < Data Science >
 
-R, R Shiny, Dash, Snakemake, Apache Spark, Tableau, AWS
+R, R Shiny, Dash, Apache Spark, AWS
 -------------
 
  < Programming >
  
- Python, JS, C, C++, "C#", .Net, Java, Dart, Rust
+ Python, JS, PhP, C++, "C#", Java, Rust
 ```
 ## **Certificates**
 
