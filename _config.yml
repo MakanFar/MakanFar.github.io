@@ -118,7 +118,7 @@ defaults:
       sitemap:         false
 
   - scope:
-      path:            licenses/
+      path:            
     values:
       layout:          plain
       sitemap:         false
