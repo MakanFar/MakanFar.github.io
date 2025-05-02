@@ -118,7 +118,7 @@ defaults:
       sitemap:         false
 
   - scope:
-      path:            
+      path:            layouts/
     values:
       layout:          plain
       sitemap:         false
