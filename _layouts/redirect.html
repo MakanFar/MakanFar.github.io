@@ -14,9 +14,10 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-layout: page
+layout: base
 ---
 
-{{ content }}
-# Here
-
+<div class="page">
+  <h1 class="page-title">{{ site.data.strings.redirecting | default:"Redirecting…" }}</h1>
+  <p class="lead"><a href="{{ page.redirect.to }}">{{ page.redirect.to }}</a></p>
+</div>
