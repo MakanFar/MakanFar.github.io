@@ -18,5 +18,34 @@ layout: page
 ---
 
 {{ content }}
-# Here
 
+{% assign posts = site.categories[page.slug] | default:site.tags[page.slug] | default:site.posts %}
+
+<div class="posts-grid">
+  {% for post in posts %}
+    <div class="post-card">
+      <a href="{{ post.url | relative_url }}" class="post-card-link">
+        {% if post.image %}
+          <div class="post-card-image" style="background-image: url('{{ post.image | relative_url }}')"></div>
+        {% else %}
+          <div class="post-card-image post-card-image-placeholder"></div>
+        {% endif %}
+        
+        <div class="post-card-content">
+          <h3 class="post-card-title">{{ post.title }}</h3>
+          <div class="post-card-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%b %d, %Y" }}
+            </time>
+            {% if post.categories.size > 0 %}
+              <span class="post-card-category">
+                {{ post.categories | first }}
+              </span>
+            {% endif %}
+          </div>
+          <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>

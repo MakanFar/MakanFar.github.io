@@ -33,26 +33,41 @@
 
 &nbsp; &nbsp; &nbsp; _University of California-Davis_
 
-: >   AI-driven diagnostic frameworks integrated with EHR and clinical systems
+: >   Generative Graph Neural Networks and Causal Inference for Gene Regulatory Network Inference.
 [DIB Lab](http://ivory.idyll.org/lab/)
 
-`Jun 2024- Sep 2024` **Software Engineer**
+`Jun 2024- Sep 2024` **Software Engineering Intern**
 
 &nbsp; &nbsp; &nbsp; _Active Prime (Mountain View, CA)_
 
-`Jun 2024- Sep 2024` **Software Engineer**
+`Jun 2023- Sep 2023` **Tech lead & AI Engineering Intern**
 
 &nbsp; &nbsp; &nbsp; _Clipo Labs (Mountain View, CA)_
-`Jun 2023- Sep 2023` **Product Manager**
+
+`May 2023- Sep 2023` **ML Engineer***
 
 &nbsp; &nbsp; &nbsp; _UC Davis School of Veterinary Medicine_
-`May 2023- Sep 2023` **AI/APP Developer**
 
+`Jun 2021- Sep 2022` **Sofware Engineer**
+
+&nbsp; &nbsp; &nbsp; _Dtech Software and Technologies (Istanbul, Turkey)_
 
 
 
 ## **Projects**
 
+`2024` **SiteAgent AI - AI customer service**
+
+: >  Developed a Python CLI tool with LangChain to automate systematic literature review. Integrated
+the PMC API for paper retrieval, stored documents in a vector database with FAISS search, and used
+GPT-4o to screen papers against user-defined inclusion criteria, and extract structured metadata into
+summary tables. [Repo](https://github.com/MakanFar/research-agent)
+
+<p align="center">
+  <a href="https://yourbloglink.com" target="_blank">
+    <img src="/assets/img/blog/researchAgent.png" alt="Blog research-agent" style="max-width:50%; border-radius:12px;">
+  </a>
+</p>
 
 `2024` **SiteAgent AI - AI customer service**
 
@@ -79,6 +94,10 @@
 ---------------------------------------------------------------------------------
 
 ## **Papers**
+
+`2025` Farhoodimoghadam, M., Brandt, C. (2025). Adopting Artificial Intelligence in Veterinary Diagnos-
+tics: A Scoping Review of Key Challenges 
+[DOI](https://doi.org/10.31222/osf.io/gy9pz_v3)
 
 `2024` Farhoodimoghadam, M., Zwingenberger, A. (2024). Diagnosis and classification of portosystemic shunts: a machine learning retrospective case-control study.
 [DOI](https://doi.org/10.3389/fvets.2024.1291318)
