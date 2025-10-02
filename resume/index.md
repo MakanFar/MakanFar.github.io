@@ -95,14 +95,17 @@ summary tables. [Repo](https://github.com/MakanFar/research-agent)
 
 ## **Papers**
 
-`2025` Farhoodimoghadam, M., Brandt, C. (2025). Adopting Artificial Intelligence in Veterinary Diagnos-
-tics: A Scoping Review of Key Challenges 
+Kong, C.,Farhoodimoghadam, M. (2025). Anna: an open-source platform for real-time integration of machine learning classifiers with veterinary electronic health records. 
+[DOI](https://doi.org/10.1186/s12917-025-05000-7)
+
+Farhoodimoghadam, M., Brandt, C. (2025). Adopting Artificial Intelligence in Veterinary Diagnos-
+tics: A Scoping Review of Key Challenges .
 [DOI](https://doi.org/10.31222/osf.io/gy9pz_v3)
 
-`2024` Farhoodimoghadam, M., Zwingenberger, A. (2024). Diagnosis and classification of portosystemic shunts: a machine learning retrospective case-control study.
+Farhoodimoghadam, M., Zwingenberger, A. (2024). Diagnosis and classification of portosystemic shunts: a machine learning retrospective case-control study.
 [DOI](https://doi.org/10.3389/fvets.2024.1291318)
 
-`2024` Kong, C.,Farhoodimoghadam, M. Enhancing AI Accessibility in Veterinary Medicine: Linking Classifiers and Electronic Health Records 
+Kong, C.,Farhoodimoghadam, M. (2024) Enhancing AI Accessibility in Veterinary Medicine: Linking Classifiers and Electronic Health Records.
 [DOI](https://doi.org/10.48550/arXiv.2410.14625)
 
 
