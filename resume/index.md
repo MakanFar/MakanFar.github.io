@@ -40,10 +40,6 @@
 
 &nbsp; &nbsp; &nbsp; _Active Prime (Mountain View, CA)_
 
-`Jun 2023- Sep 2023` **Tech lead & AI Engineering Intern**
-
-&nbsp; &nbsp; &nbsp; _Clipo Labs (Mountain View, CA)_
-
 `May 2023- Sep 2023` **ML Engineer***
 
 &nbsp; &nbsp; &nbsp; _UC Davis School of Veterinary Medicine_
@@ -56,7 +52,7 @@
 
 ## **Projects**
 
-`2024` **SiteAgent AI - AI customer service**
+`2024` **Research Agent**
 
 : >  Developed a Python CLI tool with LangChain to automate systematic literature review. Integrated
 the PMC API for paper retrieval, stored documents in a vector database with FAISS search, and used
@@ -78,7 +74,7 @@ summary tables. [Repo](https://github.com/MakanFar/research-agent)
 
 `Sep 2023` **ANNA - Animal Health Analytics Dashboard**
 
-: >  Real-time clinical diagnosis dashboard incorporating AI to enhance clinical decision-making confidence. (Python, Flask, Dash) [Article](https://www.vetmed.ucdavis.edu/news/uc-davis-researchers-exploring-data-and-ai-tools-animal-health-diagnosis-and-treatment)
+: >  Real-time clinical diagnosis dashboard incorporating AI to enhance clinical decision-making confidence. (Python, Flask, Dash) [Article](https://www.vetmed.ucdavis.edu/news/uc-davis-researchers-exploring-data-and-ai-tools-animal-health-diagnosis-and-treatment) [Repo](https://github.com/ucdavis/ANNA-AnimalHealthAnalytics)
 
 <!-- image -->
 <p align="center"><img src="anna.png"></p>
@@ -86,7 +82,7 @@ summary tables. [Repo](https://github.com/MakanFar/research-agent)
 
 `Mar 2023` **Dialogue Style Transfer.**
 
-: >  An multimodal workflow and app that combines Zero-shot large models with Zero-shot image-to-text models, enabling users to customize dialogues based on a specified character and their characteristics. [Github](https://github.com/MakanFar/StyleMyDialogue)
+: >  An multimodal workflow and app that combines Zero-shot large models with Zero-shot image-to-text models, enabling users to customize dialogues based on a specified character and their characteristics. [Repo](https://github.com/MakanFar/StyleMyDialogue)
 
 <!-- image -->
 <p align="center"><img src="StyleDia.jpg"></p>

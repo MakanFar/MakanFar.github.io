@@ -63,5 +63,5 @@ $half-content: calc(($content-width-5 / 2) + $content-margin-5);
 {% endif %}
 
 // The sidebar width starts adjusting dynamically when the content is at the center of the window.
-// This is the case when the window size has a `min-width` of content area + twice the sidebar (left, right):
+// e case when the window size has a `min-width` of content area + twice the sidebar (left, right):
 $break-point-dynamic: $content-width-5 + (2 * $content-margin-5) + (2 * $sidebar-width);

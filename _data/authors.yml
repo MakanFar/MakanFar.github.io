@@ -10,8 +10,7 @@ author1:
   about:             |
     ### Hi, I’m Makan
 
-    I’m a Computer Science PhD candidate at UC Davis, specializing in graph neural networks, generative AI, and causal inference for large-scale biological data. My research leverages machine learning techniques with real-world impact, from uncovering novel gene regulatory interactions to accelerate hypothesis generation for experimental validation.
-    I’ve led development of SiteAgent, a multilingual AI-powered voice and chat assistant for e-commerce, and contributed to Anna, a real-time analytics dashboard that delivers diagnostic insights for UC Davis’s Veterinary Hospital. At ActivePrime, I engineered scalable backend systems, optimized database matching algorithms, and achieved a 10× speedup in data processing pipelines.
+    I’m a Computer Science PhD candidate at UC Davis, working on generative AI, and pretraining methods for large-scale biological data and scientific discovery.  
     Beyond research, I’m passionate about bridging AI innovation with practical applications and develop useful tools in my free time.
 
 
